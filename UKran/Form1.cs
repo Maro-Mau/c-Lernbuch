@@ -135,6 +135,41 @@ namespace UKran
             }
         }
 
+        // Switch
+
+        private string PosKran3(string move)
+        {
+            switch (move)
+            {
+                case "Links":
+                    CmdKranLinks.BackColor = Color.Green;
+                    CmdKranRechts.BackColor = Color.Red;
+                    s.Location = new Point(440, 297);
+                    w.Location = new Point(390, 297);
+                    h.Location = new Point(390, 317);
+                    s.Size = new Size(20, 126);
+                    w.Size = new Size(50, 20);
+                    h.Size = new Size(20, 20);
+                    return bewKran = "Links";
+
+                case "Rechts":
+                    CmdKranLinks.BackColor = Color.Red;
+                    CmdKranRechts.BackColor = Color.Green;
+                    s.Location = new Point(440, 297);
+                    w.Location = new Point(459, 298);
+                    h.Location = new Point(489, 318);
+                    s.Size = new Size(20, 126);
+                    w.Size = new Size(50, 20);
+                    h.Size = new Size(20, 20);
+                    return bewKran = "Rechts";
+                default:
+
+                    MessageBox.Show("Error");
+                    return bewKran = "Error";
+
+            }
+        }
+
         private void MoveLeft()
         {
             s.Location = new Point(440, 297);

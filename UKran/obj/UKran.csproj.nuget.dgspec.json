@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reneb\\Desktop\\To_String\\UKran\\UKran.csproj": {}
+    "D:\\repos\\Lernbuch\\UKran\\UKran.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reneb\\Desktop\\To_String\\UKran\\UKran.csproj": {
+    "D:\\repos\\Lernbuch\\UKran\\UKran.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reneb\\Desktop\\To_String\\UKran\\UKran.csproj",
+        "projectUniqueName": "D:\\repos\\Lernbuch\\UKran\\UKran.csproj",
         "projectName": "UKran",
-        "projectPath": "C:\\Users\\reneb\\Desktop\\To_String\\UKran\\UKran.csproj",
+        "projectPath": "D:\\repos\\Lernbuch\\UKran\\UKran.csproj",
         "packagesPath": "C:\\Users\\reneb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reneb\\Desktop\\To_String\\UKran\\obj\\",
+        "outputPath": "D:\\repos\\Lernbuch\\UKran\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
