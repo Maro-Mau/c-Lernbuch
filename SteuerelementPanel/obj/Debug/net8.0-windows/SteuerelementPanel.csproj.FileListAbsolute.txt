@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\bin\Debug\net8.0-windows\SteuerelementPanel.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\bin\Debug\net8.0-windows\SteuerelementPanel.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\bin\Debug\net8.0-windows\SteuerelementPanel.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\bin\Debug\net8.0-windows\SteuerelementPanel.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\bin\Debug\net8.0-windows\SteuerelementPanel.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\refint\SteuerelementPanel.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\SteuerelementPanel.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\SteuerelementPanel\obj\Debug\net8.0-windows\ref\SteuerelementPanel.dll

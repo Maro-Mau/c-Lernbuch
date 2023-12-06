@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelZeitgeber", "PanelZeitgeber.csproj", "{D72424CD-C2C3-49AA-B125-B03F8ABEF89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72424CD-C2C3-49AA-B125-B03F8ABEF89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72424CD-C2C3-49AA-B125-B03F8ABEF89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72424CD-C2C3-49AA-B125-B03F8ABEF89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72424CD-C2C3-49AA-B125-B03F8ABEF89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D85CFEA0-52E5-4526-9791-50138F6110ED}
+	EndGlobalSection
+EndGlobal

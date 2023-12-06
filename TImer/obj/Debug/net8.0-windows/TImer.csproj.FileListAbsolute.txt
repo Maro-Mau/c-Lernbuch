@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\bin\Debug\net8.0-windows\TImer.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\bin\Debug\net8.0-windows\TImer.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\bin\Debug\net8.0-windows\TImer.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\bin\Debug\net8.0-windows\TImer.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\bin\Debug\net8.0-windows\TImer.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\refint\TImer.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\TImer.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\TImer\obj\Debug\net8.0-windows\ref\TImer.dll

@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\bin\Debug\net8.0-windows\Daten_Typen.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\bin\Debug\net8.0-windows\Daten_Typen.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\bin\Debug\net8.0-windows\Daten_Typen.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\bin\Debug\net8.0-windows\Daten_Typen.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\bin\Debug\net8.0-windows\Daten_Typen.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\refint\Daten_Typen.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\Daten_Typen.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Daten_Typen\obj\Debug\net8.0-windows\ref\Daten_Typen.dll

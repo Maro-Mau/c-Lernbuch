@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\bin\Debug\net8.0-windows\GrundlagenSteuerelemente.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\bin\Debug\net8.0-windows\GrundlagenSteuerelemente.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\bin\Debug\net8.0-windows\GrundlagenSteuerelemente.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\bin\Debug\net8.0-windows\GrundlagenSteuerelemente.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\bin\Debug\net8.0-windows\GrundlagenSteuerelemente.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\refint\GrundlagenSteuerelemente.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\GrundlagenSteuerelemente.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\GrundlagenSteuerelemente\obj\Debug\net8.0-windows\ref\GrundlagenSteuerelemente.dll

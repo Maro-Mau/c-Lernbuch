@@ -1,0 +1,32 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\bin\Debug\net8.0-windows\UKran.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\bin\Debug\net8.0-windows\UKran.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\bin\Debug\net8.0-windows\UKran.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\bin\Debug\net8.0-windows\UKran.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\bin\Debug\net8.0-windows\UKran.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\refint\UKran.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\UKran.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\UKran\obj\Debug\net8.0-windows\ref\UKran.dll
+C:\Users\reneb\Desktop\To_String\UKran\bin\Debug\net8.0-windows\UKran.exe
+C:\Users\reneb\Desktop\To_String\UKran\bin\Debug\net8.0-windows\UKran.deps.json
+C:\Users\reneb\Desktop\To_String\UKran\bin\Debug\net8.0-windows\UKran.runtimeconfig.json
+C:\Users\reneb\Desktop\To_String\UKran\bin\Debug\net8.0-windows\UKran.dll
+C:\Users\reneb\Desktop\To_String\UKran\bin\Debug\net8.0-windows\UKran.pdb
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.Form1.resources
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.csproj.GenerateResource.cache
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.AssemblyInfoInputs.cache
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.AssemblyInfo.cs
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.csproj.CoreCompileInputs.cache
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.dll
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\refint\UKran.dll
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.pdb
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\UKran.genruntimeconfig.cache
+C:\Users\reneb\Desktop\To_String\UKran\obj\Debug\net8.0-windows\ref\UKran.dll

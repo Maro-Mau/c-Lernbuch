@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\bin\Debug\net8.0-windows\Gültigkeitsbereich.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\bin\Debug\net8.0-windows\Gültigkeitsbereich.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\bin\Debug\net8.0-windows\Gültigkeitsbereich.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\bin\Debug\net8.0-windows\Gültigkeitsbereich.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\bin\Debug\net8.0-windows\Gültigkeitsbereich.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\refint\Gültigkeitsbereich.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\Gültigkeitsbereich.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\Gültigkeitsbereich\obj\Debug\net8.0-windows\ref\Gültigkeitsbereich.dll

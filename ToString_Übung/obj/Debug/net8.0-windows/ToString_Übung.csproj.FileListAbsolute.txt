@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\bin\Debug\net8.0-windows\ToString_Übung.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\bin\Debug\net8.0-windows\ToString_Übung.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\bin\Debug\net8.0-windows\ToString_Übung.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\bin\Debug\net8.0-windows\ToString_Übung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\bin\Debug\net8.0-windows\ToString_Übung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\refint\ToString_Übung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ToString_Übung.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\ToString_Übung\obj\Debug\net8.0-windows\ref\ToString_Übung.dll

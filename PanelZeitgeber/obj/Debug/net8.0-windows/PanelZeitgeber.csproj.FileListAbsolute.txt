@@ -1,0 +1,16 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\bin\Debug\net8.0-windows\PanelZeitgeber.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\bin\Debug\net8.0-windows\PanelZeitgeber.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\bin\Debug\net8.0-windows\PanelZeitgeber.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\bin\Debug\net8.0-windows\PanelZeitgeber.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\bin\Debug\net8.0-windows\PanelZeitgeber.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\refint\PanelZeitgeber.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\PanelZeitgeber.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\To_String\PanelZeitgeber\obj\Debug\net8.0-windows\ref\PanelZeitgeber.dll
