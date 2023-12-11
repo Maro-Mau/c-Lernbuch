@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\bin\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\bin\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\bin\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\bin\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\bin\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\refint\GundlagenIfElseVerzweigungen.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\GundlagenIfElseVerzweigungen.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GundlagenIfElseVerzweigungen\obj\Debug\net8.0-windows\ref\GundlagenIfElseVerzweigungen.dll
