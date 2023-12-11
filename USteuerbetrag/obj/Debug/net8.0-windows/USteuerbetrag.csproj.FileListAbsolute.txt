@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\bin\Debug\net8.0-windows\USteuerbetrag.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\bin\Debug\net8.0-windows\USteuerbetrag.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\bin\Debug\net8.0-windows\USteuerbetrag.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\bin\Debug\net8.0-windows\USteuerbetrag.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\bin\Debug\net8.0-windows\USteuerbetrag.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\refint\USteuerbetrag.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\USteuerbetrag.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\USteuerbetrag\obj\Debug\net8.0-windows\ref\USteuerbetrag.dll
