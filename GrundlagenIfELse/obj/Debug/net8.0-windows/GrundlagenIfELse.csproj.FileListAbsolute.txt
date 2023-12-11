@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\bin\Debug\net8.0-windows\GrundlagenIfELse.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\bin\Debug\net8.0-windows\GrundlagenIfELse.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\bin\Debug\net8.0-windows\GrundlagenIfELse.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\bin\Debug\net8.0-windows\GrundlagenIfELse.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\bin\Debug\net8.0-windows\GrundlagenIfELse.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\refint\GrundlagenIfELse.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\GrundlagenIfELse.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\GrundlagenIfELse\obj\Debug\net8.0-windows\ref\GrundlagenIfELse.dll
