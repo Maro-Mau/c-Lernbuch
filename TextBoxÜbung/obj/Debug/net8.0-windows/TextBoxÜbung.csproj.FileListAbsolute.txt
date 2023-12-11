@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\bin\Debug\net8.0-windows\TextBoxÜbung.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\bin\Debug\net8.0-windows\TextBoxÜbung.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\bin\Debug\net8.0-windows\TextBoxÜbung.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\bin\Debug\net8.0-windows\TextBoxÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\bin\Debug\net8.0-windows\TextBoxÜbung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\refint\TextBoxÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\TextBoxÜbung.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\TextBoxÜbung\obj\Debug\net8.0-windows\ref\TextBoxÜbung.dll
