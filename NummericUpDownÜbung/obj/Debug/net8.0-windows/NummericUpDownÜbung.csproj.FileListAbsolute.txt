@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\bin\Debug\net8.0-windows\NummericUpDownÜbung.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\bin\Debug\net8.0-windows\NummericUpDownÜbung.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\bin\Debug\net8.0-windows\NummericUpDownÜbung.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\bin\Debug\net8.0-windows\NummericUpDownÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\bin\Debug\net8.0-windows\NummericUpDownÜbung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\refint\NummericUpDownÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\NummericUpDownÜbung.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\NummericUpDownÜbung\obj\Debug\net8.0-windows\ref\NummericUpDownÜbung.dll
