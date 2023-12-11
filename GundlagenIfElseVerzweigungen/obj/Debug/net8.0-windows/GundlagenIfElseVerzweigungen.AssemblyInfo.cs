@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GundlagenIfElseVerzweigungen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5a6df51687b1dbb940b0a982832a042baf44177")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e6d132aca77e5531546dd6100f3776e9c8a9a3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GundlagenIfElseVerzweigungen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GundlagenIfElseVerzweigungen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
