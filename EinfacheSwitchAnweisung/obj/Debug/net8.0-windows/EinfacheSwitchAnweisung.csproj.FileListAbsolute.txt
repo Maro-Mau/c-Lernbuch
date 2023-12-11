@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\bin\Debug\net8.0-windows\EinfacheSwitchAnweisung.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\bin\Debug\net8.0-windows\EinfacheSwitchAnweisung.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\bin\Debug\net8.0-windows\EinfacheSwitchAnweisung.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\bin\Debug\net8.0-windows\EinfacheSwitchAnweisung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\bin\Debug\net8.0-windows\EinfacheSwitchAnweisung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\refint\EinfacheSwitchAnweisung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\EinfacheSwitchAnweisung.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\EinfacheSwitchAnweisung\obj\Debug\net8.0-windows\ref\EinfacheSwitchAnweisung.dll
