@@ -31,6 +31,8 @@
             CmdAnzeige1 = new Button();
             LblAnzeigen = new Label();
             CmdAnzeige2 = new Button();
+            CmdAnzeige3 = new Button();
+            CmdAnzeige4 = new Button();
             SuspendLayout();
             // 
             // CmdAnzeige1
@@ -62,11 +64,33 @@
             CmdAnzeige2.UseVisualStyleBackColor = true;
             CmdAnzeige2.Click += CmdAnzeige2_Click;
             // 
+            // CmdAnzeige3
+            // 
+            CmdAnzeige3.Location = new Point(174, 12);
+            CmdAnzeige3.Name = "CmdAnzeige3";
+            CmdAnzeige3.Size = new Size(75, 23);
+            CmdAnzeige3.TabIndex = 3;
+            CmdAnzeige3.Text = "Anzeigen 3";
+            CmdAnzeige3.UseVisualStyleBackColor = true;
+            CmdAnzeige3.Click += CmdAnzeige3_Click;
+            // 
+            // CmdAnzeige4
+            // 
+            CmdAnzeige4.Location = new Point(255, 12);
+            CmdAnzeige4.Name = "CmdAnzeige4";
+            CmdAnzeige4.Size = new Size(75, 23);
+            CmdAnzeige4.TabIndex = 4;
+            CmdAnzeige4.Text = "Anzeige 4";
+            CmdAnzeige4.UseVisualStyleBackColor = true;
+            CmdAnzeige4.Click += CmdAnzeige4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(CmdAnzeige4);
+            Controls.Add(CmdAnzeige3);
             Controls.Add(CmdAnzeige2);
             Controls.Add(LblAnzeigen);
             Controls.Add(CmdAnzeige1);
@@ -81,5 +105,7 @@
         private Button CmdAnzeige1;
         private Label LblAnzeigen;
         private Button CmdAnzeige2;
+        private Button CmdAnzeige3;
+        private Button CmdAnzeige4;
     }
 }

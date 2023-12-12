@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EinfacheSwitchAnweisung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97f583e9c8ff13abe097fbc8b94d951305acbb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2107a8baf9ddc15536f2ae1032b4858bdfabe40a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EinfacheSwitchAnweisung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EinfacheSwitchAnweisung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

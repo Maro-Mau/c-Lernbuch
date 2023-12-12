@@ -10,7 +10,7 @@ namespace EinfacheSwitchAnweisung
 
         private void CmdAnzeige1_Click(object sender, EventArgs e)
         {
-            string stadt = "Antwerpen", land;
+            string stadt = "", land;
             int flaeche;
             switch (stadt)
             {
@@ -63,6 +63,57 @@ namespace EinfacheSwitchAnweisung
             }
         }
 
+        private void CmdAnzeige3_Click(object sender, EventArgs e)
+        {
+            string stadt = "Barcelona", land;
+            bool hauptstadt = false;
+            int flaeche;
+            switch (stadt)
+            {
+                case "Paris":
+                    hauptstadt = true;
+                    land = "Frankreich";
+                    flaeche = 632734;
+                    break;
+                case "Brüssel":
+                    hauptstadt = true;
+                    goto case "Namur";
+                case "Namur":
+                case "Lüttich":
+                    land = "Belgien";
+                    flaeche = 30688;
+                    break;
+                case "Barcelona":
+                    land = "Spanien";
+                    flaeche = 505970;
+                    break;
+                case "Madrid":
+                    hauptstadt = true;
+                    goto case "Barcelona";
+                default:
+                    land = "unbekannt";
+                    flaeche = 0;
+                    break;
+            }
+            LblAnzeigen.Text = $"Stadt: {stadt}";
+            if (hauptstadt)
+                LblAnzeigen.Text += ", ist Hauptstadt";
+            LblAnzeigen.Text += $", Land: {land}, Fläche: {flaeche}";
+        }
+
+        private void CmdAnzeige4_Click(object sender, EventArgs e)
+        {
+            string land = "Frankreich";
+            string haubtstadt = land switch
+            {
+                "Frankreich" => "Paris",
+                "Belgien" => "Brüssel",
+                "Spanien" => "Madrid",
+                _ => "unbekannt"
+            };
+            LblAnzeigen.Text
+        }
     }
 }
+
 
