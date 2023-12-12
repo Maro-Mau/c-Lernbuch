@@ -1,0 +1,17 @@
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\bin\Debug\net8.0-windows\CheckBoxÜbung.exe
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\bin\Debug\net8.0-windows\CheckBoxÜbung.deps.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\bin\Debug\net8.0-windows\CheckBoxÜbung.runtimeconfig.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\bin\Debug\net8.0-windows\CheckBoxÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\bin\Debug\net8.0-windows\CheckBoxÜbung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.Form1.resources
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.csproj.GenerateResource.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.AssemblyInfoInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.AssemblyInfo.cs
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.csproj.CoreCompileInputs.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.sourcelink.json
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\refint\CheckBoxÜbung.dll
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.pdb
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\CheckBoxÜbung.genruntimeconfig.cache
+C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\CheckBoxÜbung\obj\Debug\net8.0-windows\ref\CheckBoxÜbung.dll
