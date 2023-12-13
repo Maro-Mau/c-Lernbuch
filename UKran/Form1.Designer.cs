@@ -37,9 +37,9 @@
             CmdKranAus = new Button();
             CmdKranEin = new Button();
             f = new Panel();
-            h = new Panel();
-            w = new Panel();
-            s = new Panel();
+            hacken = new Panel();
+            ausleger = new Panel();
+            pfosten = new Panel();
             SuspendLayout();
             // 
             // CmdHackenAus
@@ -133,41 +133,41 @@
             // 
             // h
             // 
-            h.Anchor = AnchorStyles.None;
-            h.BackColor = Color.Blue;
-            h.Cursor = Cursors.IBeam;
-            h.Location = new Point(489, 318);
-            h.Name = "h";
-            h.Size = new Size(20, 20);
-            h.TabIndex = 9;
+            hacken.Anchor = AnchorStyles.None;
+            hacken.BackColor = Color.Blue;
+            hacken.Cursor = Cursors.IBeam;
+            hacken.Location = new Point(489, 318);
+            hacken.Name = "hacken";
+            hacken.Size = new Size(20, 20);
+            hacken.TabIndex = 9;
             // 
             // w
             // 
-            w.BackColor = Color.Yellow;
-            w.Cursor = Cursors.IBeam;
-            w.Location = new Point(459, 298);
-            w.Name = "w";
-            w.Size = new Size(50, 20);
-            w.TabIndex = 10;
+            ausleger.BackColor = Color.Yellow;
+            ausleger.Cursor = Cursors.IBeam;
+            ausleger.Location = new Point(459, 298);
+            ausleger.Name = "ausleger";
+            ausleger.Size = new Size(50, 20);
+            ausleger.TabIndex = 10;
             // 
             // s
             // 
-            s.BackColor = Color.FromArgb(0, 192, 0);
-            s.Cursor = Cursors.IBeam;
-            s.Location = new Point(440, 297);
-            s.Name = "s";
-            s.Size = new Size(20, 126);
-            s.TabIndex = 11;
+            pfosten.BackColor = Color.FromArgb(0, 192, 0);
+            pfosten.Cursor = Cursors.IBeam;
+            pfosten.Location = new Point(440, 297);
+            pfosten.Name = "pfosten";
+            pfosten.Size = new Size(20, 126);
+            pfosten.TabIndex = 11;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1396, 853);
-            Controls.Add(h);
+            Controls.Add(hacken);
             Controls.Add(f);
-            Controls.Add(s);
-            Controls.Add(w);
+            Controls.Add(pfosten);
+            Controls.Add(ausleger);
             Controls.Add(CmdKranEin);
             Controls.Add(CmdKranAus);
             Controls.Add(CmdKranLinks);
@@ -192,8 +192,8 @@
         private Button CmdKranAus;
         private Button CmdKranEin;
         private Panel f;
-        private Panel h;
-        private Panel w;
-        private Panel s;
+        private Panel hacken;
+        private Panel ausleger;
+        private Panel pfosten;
     }
 }
