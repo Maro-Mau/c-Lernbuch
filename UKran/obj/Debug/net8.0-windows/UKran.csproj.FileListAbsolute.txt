@@ -47,3 +47,20 @@ C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\UKran\obj\Debug\net8.0
 C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.pdb
 C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.genruntimeconfig.cache
 C:\Users\rene.barthel\Desktop\C# Buch Übungen\c#Lernbuch\UKran\obj\Debug\net8.0-windows\ref\UKran.dll
+G:\Repos\c-Lernbuch\UKran\bin\Debug\net8.0-windows\UKran.exe
+G:\Repos\c-Lernbuch\UKran\bin\Debug\net8.0-windows\UKran.deps.json
+G:\Repos\c-Lernbuch\UKran\bin\Debug\net8.0-windows\UKran.runtimeconfig.json
+G:\Repos\c-Lernbuch\UKran\bin\Debug\net8.0-windows\UKran.dll
+G:\Repos\c-Lernbuch\UKran\bin\Debug\net8.0-windows\UKran.pdb
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.Form1.resources
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.csproj.GenerateResource.cache
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.AssemblyInfoInputs.cache
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.AssemblyInfo.cs
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.csproj.CoreCompileInputs.cache
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.sourcelink.json
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.dll
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\refint\UKran.dll
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.pdb
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\UKran.genruntimeconfig.cache
+G:\Repos\c-Lernbuch\UKran\obj\Debug\net8.0-windows\ref\UKran.dll
